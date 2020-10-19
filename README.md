@@ -2,12 +2,12 @@
 An app to connect volunteers with orphanages. Designed by Rocketseat at their intensive training "Next Level Week 3".
 
 ### Technologies
-  -Node.js
-  -React.js
-  -JavaScript
-  -TypeScript
-  -HTML
-  -CSS
+  - Node.js
+  - React.js
+  - JavaScript
+  - TypeScript
+  - HTML
+  - CSS
 
 ## Front-end
 For front-end we used create-react-app to initialize a React structure with Typescript template.
