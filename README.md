@@ -28,7 +28,7 @@ The orphanages data are gotten and registered through the RESTful API we created
   - Components hooks
   - Components reuse
 
-<video src="assets/preview-happy.mp4" controls preload></video>
+<video src="assets/preview-happy.mp4" width="320" height="200" controls preload></video>
 
 ## Back-end
 For back-end, a RESTful API was constructed with just one resource 'orphanage' where we can create, list all or list one.
